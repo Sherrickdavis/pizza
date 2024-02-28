@@ -2,13 +2,13 @@
 <html>
 <head>
 
-<title>My favorite pizza</title>
+
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" />
 
 <link href="style.css" rel="stylesheet" type="text/css" />
 </head>
 <body>
-  
+  <title>My favorite pizza</title>
 </body>
 <div class="pageContainer">
   <div class="imageContainer"> 
