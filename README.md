@@ -12,7 +12,7 @@
 </body>
 <div class="pageContainer">
   <div class="imageContainer"> 
-    <img src="images/pizza.jpg" alt="Pizza with pepperoni and cheese." /> 
+    <img src="pizza.jpg" alt="Pizza with pepperoni and cheese." /> 
   </div>
   <div class="textContainer">
     <h1>Pizza!</h1>
