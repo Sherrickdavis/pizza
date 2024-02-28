@@ -8,7 +8,7 @@
 <link href="style.css" rel="stylesheet" type="text/css" />
 </head>
 <body>
- <h1><title>My favorite pizza</title></h1>
+ <h1>My favorite pizza</h1>
 </body>
 <div class="pageContainer">
   <div class="imageContainer"> 
